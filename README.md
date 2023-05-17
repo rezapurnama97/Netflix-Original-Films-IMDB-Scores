@@ -27,3 +27,4 @@ __Apa karakteristik film yang sebaiknya diproduksi oleh Netflix ke depan?__
 
 4. Namun, penting untuk diingat bahwa preferensi penonton dapat bervariasi, dan analisis ini didasarkan pada data yang diberikan. Meskipun genre dokumentasi menjadi salah satu yang paling populer, hal ini tidak berarti genre lain tidak memiliki potensi untuk sukses. Oleh karena itu, Netflix dapat mempertimbangkan untuk memberikan perhatian lebih pada genre dokumenter yang sukses, sambil tetap terbuka terhadap kesempatan dan potensi genre lain yang menarik.
 
+link Tableau: https://public.tableau.com/views/NetflixOriginalFilmsIMDBScores_16843138872330/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
