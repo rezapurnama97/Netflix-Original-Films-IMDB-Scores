@@ -18,7 +18,7 @@ __Apa karakteristik film yang sebaiknya diproduksi oleh Netflix ke depan?__
 4. Genre Dokumenter memiliki jumlah film terbanyak dan juga setiap tahunnya selalu mgalami kenaikan secara linear, dan behenti pada waktu terjadi tahun 2020 karena wabah Covid.
 5. Bahasa Inggris adalah bahasa dominan dalam industri film yang tercatat dalam data tersebut, diikuti oleh bahasa Hindi, Spanyol, Prancis, dan Italia.  
 
-# Recoendation
+# Recomendation
 1. Direkomendasikan Netflix untuk melanjutkan investasi dalam produksi film dokumenter. Genre dokumenter telah terbukti memiliki penilaian yang bagus dari audiens, baik dalam kelompok film berdurasi panjang maupun pendek. Meskipun jumlah produksi dokumenter meningkat secara linear, genre ini tetap mampu bersaing dalam kategori rata-rata IMDb tertinggi. Ini menunjukkan bahwa film dokumenter memiliki potensi untuk memberikan hasil yang baik dan tetap diminati oleh penonton.
 
 2. Selain genre dokumenter, direkomendasikan juga untuk mempertimbangkan genre lain seperti drama, komedi, romantic comedy, dan thriller dalam produksi film berdurasi panjang. Genre-genre ini memiliki rata-rata skor IMDb tertinggi dalam kelompok film berdurasi panjang, ini menunjukkan bahwa film-film dalam genre-genre tersebut memiliki potensi untuk mendapatkan penilaian yang tinggi dari penonton. Untuk produksi film berdurasi pendek, direkomendasikan untuk fokus pada genre seperti animasi, one-man show, komedi, dan variety show. Genre-genre ini memiliki rata-rata skor IMDb tertinggi dalam kelompok film berdurasi pendek. Hal ini menunjukkan bahwa film-film pendek dalam genre-genre tersebut mungkin lebih disukai oleh penonton.
